@@ -1,0 +1,364 @@
+.web {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.link .rofi {
+    color: #00b39b;
+}
+
+.link a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #747474;
+    margin-left: 15px;
+
+    a:hover {
+        transform: scale(2);
+        color: #00b39b;
+    }
+
+}
+
+
+.heading {
+    color: #00b39b;
+    font-size: 30px;
+}
+
+.logo z {
+    display: flex;
+    margin-left: 553px;
+
+    logo z a :hover {
+        background-color: #00b39b;
+        transform: scale(3);
+    }
+}
+
+
+
+.logo1 {
+    color: #00b39b;
+
+}
+
+.logo1 a:hover {
+    color: #00b39b;
+
+
+}
+
+.icon:hover {
+    color: aqua;
+}
+
+.titre {
+    text-align: center;
+    color: #00b39b;
+}
+
+div {
+    text-align: center;
+}
+
+.quatre {
+    margin-left: 1%;
+
+}
+
+.primaire {
+    display: flex;
+    margin: 6%;
+
+}
+
+.terciaire {
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+.terciaire p {
+    font-size: 20px;
+}
+
+.patiens {
+    background-color: #00b39b;
+    padding: 60px;
+
+    .p {
+        margin-right: 150px;
+
+    }
+
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+}
+
+
+
+
+.informations {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+
+}
+
+.doctors {
+    background-color: blue;
+    padding: 30px;
+
+    .d {
+        margin-right: 200px;
+    }
+
+}
+
+.clinics {
+
+    background-color: black;
+    margin-left: 25px;
+    padding: 60px;
+
+    .c {
+        margin-right: 50px;
+    }
+
+
+}
+
+.logo2 {
+    width: 52px;
+    color: #00b39b;
+
+}
+
+.logo3 {
+    width: 350px;
+
+}
+
+#sponsor {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.logospons {
+    margin-top: 50px;
+    color: #747474;
+    font-weight: normal;
+
+
+}
+
+
+.world {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 30px;
+    background: #d0eeea;
+}
+
+.millions {
+    color: #00b39b;
+}
+
+.parent {
+    margin-top: 30px;
+
+}
+
+.pays {
+    border-style: ridge;
+    background-color: floralwhite;
+    width: 200px;
+    height: 250px;
+    font-size: 13px;
+    margin-right: 15px;
+    padding-top: 20px;
+
+}
+
+.ld {
+    color: #00b39b;
+    font-size: 20px;
+}
+
+.ga {
+    border-style: ridge;
+    background-color: floralwhite;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+   
+    border-color: white;
+    margin-top: 40px;
+    margin-left: 8px;
+}
+
+.nbr {
+    color: #00b39b;
+    font-size: 20px;
+    
+}
+
+.visit {
+    border-style: ridge;
+    background-color: floralwhite;
+    width: 200px;
+    height: 200px;
+    font-size: 13px;
+    padding-top: 20px;
+    border: white;
+}
+
+.pate {
+    color: #00b39b;
+    font-size: 20px;
+}
+
+.trust {
+    border-style: ridge;
+    background-color: floralwhite;
+    margin-right: 28px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    font: size 13px;
+    padding-top: 20px;
+}
+
+.doc {
+    color: #00b39b;
+    font-size: 20px;
+}
+
+.rafa {
+    color: black;
+}
+
+.range1 {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 70;
+   
+
+
+
+}
+
+.btn {
+    display: flex;
+
+}
+
+.range2 {
+    display: flex;
+    justify-content: center;
+  
+
+}
+
+.range3 {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.range4 {
+
+}
+
+.btn {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: rgba(43, 43, 203, 0.83);
+    color: white;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.range1 {
+    background-color: white;
+}
+
+.range2 img:hover {
+    background-color: white;
+    border: 1px solid white;
+}
+
+.range3 img:hover {
+    background-color: white;
+    border: 1px solid white;
+}
+
+.range4 img:hover {
+    background-color: white;
+
+}
+
+.globale {
+    justify-content: center;
+}
+
+.Join {
+    font-size: 32px;
+}
+
+.see {
+    padding-bottom: 56px;
+}
+
+.istanbul {
+    margin-right: 30px;
+    border-radius: 1px solid rgb(183, 181, 181);
+
+}
+
+.bogota {
+    margin-left: -570px;
+}
+
+.warsaw {
+    margin-right: 30px;
+    border-radius: 1px solid rgb(183, 181, 181);
+}
+
+.barcelona {
+    margin-right: 30px;
+}
+
+.rome {
+    margin-right: 30px;
+}
+
+.curitiba {
+    margin-right: 30px;
+}
+
+.rio-janeiro {
+    margin-right: 30px;
+    border-radius: 1px solid rgb(183, 181, 181);
+}
+.tol{
+    display: flex;
+}
